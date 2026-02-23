@@ -159,6 +159,7 @@
       *    Note: uncomment the following 'MOVE' statement to apply
       *          Business Rule processing (default=no)
       *    MOVE 'Y' TO BUSINESS-RULES
+      *    TIM IS SO COOL
 
            If IN-RULES-MODE And CA-REQUEST-ID = '01AEND'
                EXEC CICS Link Program(LGAPBR01)
