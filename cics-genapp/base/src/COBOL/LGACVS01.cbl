@@ -60,7 +60,7 @@
            03 CA-DATA                  PIC X(90) VALUE SPACES.
 
       *****************************************************************
-      *    L I N K A G E     S E C T I O N
+      *    L I N K A G E     S E C T I O N 3333
       *****************************************************************
        LINKAGE SECTION.
        01  DFHCOMMAREA.
