@@ -263,6 +263,7 @@
 
 
       *    Send message to terminal and return
+      *    I HOPE IT IS WARM IN SINGAPORE
 
            EXEC CICS RETURN
            END-EXEC.

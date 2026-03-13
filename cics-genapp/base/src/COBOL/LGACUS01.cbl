@@ -69,7 +69,8 @@
       *----------------------------------------------------------------*
 
       *----------------------------------------------------------------*
-      * Definitions required for data manipulation                     *
+      * Definitions required for data manipulation 
+      *HELLO FROM SWITZERLAND                                          *
       *----------------------------------------------------------------*
       * Fields to be used to check that commarea is correct length
        01  WS-COMMAREA-LENGTHS.
