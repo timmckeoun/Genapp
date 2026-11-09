@@ -32,7 +32,7 @@
       *----------------------------------------------------------------*
       * Common defintions                                              *
       *----------------------------------------------------------------*
-      * Run time (debug) infomation for this invocation
+      * Run time (debug) infomation for this invocation test
         01  WS-HEADER.
            03 WS-EYECATCHER            PIC X(16)
                                         VALUE 'LGACUS01------WS'.
