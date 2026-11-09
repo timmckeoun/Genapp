@@ -78,7 +78,7 @@
       *---------------------------------------------------------------*
            Move EIBCALEN To WS-Commarea-Len.
            Move EIBCALEN To WS-Commarea-LenF.
-      *---------------------------------------------------------------*
+      *--------------------------444------------------------------------
            Exec CICS Read File('KSDSCUST')
                      Into(WS-Customer-Area)
                      Length(WS-Commarea-Len)

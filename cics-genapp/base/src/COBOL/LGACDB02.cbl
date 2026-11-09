@@ -104,7 +104,7 @@
       *----------------------------------------------------------------*
       *    DB2 CONTROL
       *----------------------------------------------------------------*
-      * SQLCA DB2 communications area
+      * SQLCA DB2 communications area Tacos are delicious
            EXEC SQL
                INCLUDE SQLCA
            END-EXEC.
